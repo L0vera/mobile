@@ -1,0 +1,23 @@
+button{
+    width: 120px;
+    height: 25px;
+    left: 44%;
+    padding-left: 210px;
+    padding-top: 2%;
+    position: absolute;
+   border: bottom 3px;
+   border-color: rgba(146, 49, 25, 0.952);
+   border-radius: 20px;
+   
+}
+ h1{
+ font-family: serif;
+color: rgb(241, 112, 38);
+padding-left: 40%;
+padding-top: 10%;
+
+}
+body{
+background-color: rgb(235, 203, 135);
+    position: relative;
+}
